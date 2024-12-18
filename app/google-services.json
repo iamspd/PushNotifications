@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726274605459",
+    "project_id": "fir-pushnotifications-abc26",
+    "storage_bucket": "fir-pushnotifications-abc26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726274605459:android:e870d84d2e6a5808ab6866",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEIdBb2zgw9dc6uyodZ80OCCZKCg0dCxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
